@@ -1,4 +1,4 @@
-# <img src="https://southrivertech.com/software/nextgen/dmzedge/dmzedge48.png" alt="DMZedge Server logo"> DMZedge Server - Linux Cloud Edition
+# <img src="https://southrivertech.com/software/nextgen/dmzedge/dmzedge48.png" alt="DMZedge Server logo"> DMZedge Server - Cloud Edition
 
 Thank you for choosing DMZedge Server - Cloud Edition from South River Technologies. This is the Pay-as-you-go version of our solution, meaning that it will run fully featured without the need to purchase a license from South River Technologies. Simply fire up your DMZedge Server VM, and run your business.
 
@@ -24,8 +24,6 @@ The DMZedge Server instance has been preconfigured for access from an external C
 
 - `Public IP Address` - set this to the desired public IP address issued by your cloud provider for external connections to be proxied to the Cornerstone server.
 - 
-
-
 
 ## Tech Support
 
