@@ -29,9 +29,13 @@ The DMZedge Server instance has been preconfigured for access from an external C
 
 ## Tech Support
 
+ [https://www.srthelpdesk.com](https://www.srthelpdesk.com)
+
+
 ## WebSite(s)
 
 DMZedge Server micro site: [https://www.dmzedge.com](https://www.dmzedge.com)
+
 South River Technologies corporate WebSite:  [https://www.SouthRiverTechnologies.com](https://www.SouthRiverTechnologies.com)
 
 
