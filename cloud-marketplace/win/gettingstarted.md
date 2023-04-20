@@ -1,4 +1,4 @@
-# <img src="https://southrivertech.com/software/nextgen/dmzedge/dmzedge48.png" alt="DMZedge Server logo"> DMZedge Server - Cloud Edition
+# <img src="https://southrivertech.com/software/nextgen/dmzedge/dmzedge48.png" alt="DMZedge Server logo"> DMZedge Server - Cloud Edition for Windows</img>
 
 Thank you for choosing DMZedge Server - Cloud Edition from South River Technologies. This is the Pay-as-you-go version of our solution, meaning that it will run fully featured without the need to purchase a license from South River Technologies. Simply fire up your DMZedge Server VM, and run your business.
 
