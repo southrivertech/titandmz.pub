@@ -1,4 +1,4 @@
-# <img src="https://southrivertech.com/software/nextgen/dmzedge/dmzedge48.png" alt="DMZedge Server logo"> DMZedge Server - Linux Cloud Edition
+# DMZedge Enterprise Server - Linux Cloud Edition
 
 Thank you for choosing DMZedge Server - Cloud Edition from South River Technologies. This is the Pay-as-you-go version of our solution, meaning that it will run fully featured without the need to purchase a license from South River Technologies. Simply fire up your DMZedge Server VM, and run your business.
 
@@ -23,20 +23,19 @@ The DMZedge Server instance has been preconfigured for access from an external C
 - `Private IP Address` - set this to the desired listening IP address where Cornerstone will connect to the DMZedge server.
 
 - `Public IP Address` - set this to the desired public IP address issued by your cloud provider for external connections to be proxied to the Cornerstone server.
-- 
-
-
 
 ## Tech Support
 
- [https://www.srthelpdesk.com](https://www.srthelpdesk.com)
-
+Complimentary technical support is available on our website at https://helpdesk.dmzedge.com (use DMZedgePAYG as your registration code)
 
 ## WebSite(s)
 
-DMZedge Server micro site: [https://www.dmzedge.com](https://www.dmzedge.com)
+South River Technologies corporate WebSite:  [https://www.SouthRiverTechnologies.com](https://www.SouthRiverTechnologies.com)<br />
+Cornerstone MFT (Enterprise grade Managed File Transfer Solution): [https://www.CornerstoneMFT.com](https://www.cornerstonemft.com)<br />
+DMZedge Server (Secure reverse proxy server for Cornerstone MFT): [https://www.dmzedge.com](https://www.dmzedge.com)<br />
+Titan SFTP Server micro site: [https://www.titanftp.com](https://www.titanftp.com)<br />
+WebDrive (Virtual Drive Mapping Client): [https://www.WebDrive.com](https://www.webdrive.com)<br />
 
-South River Technologies corporate WebSite:  [https://www.SouthRiverTechnologies.com](https://www.SouthRiverTechnologies.com)
 
 
 
