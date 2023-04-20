@@ -2,10 +2,6 @@
 
 This repository contains various documents and utilities for users of our DMZedge Server cloud marketplace offering. 
 
-DMZedge Server is currently available the Amazon AWS Marketplace, Microsoft Azure Marketplace, and Google Cloud Marketplace. On
-each Cloud Marketplace, there will be Windows and Linux versions of the product which has been pre-configured
-and tuned for use.
+This repo contains general utilities, scripts, and documentation helpful for working with the [DMZedge Server](https://www.dmzedge.com) solution from [South River Technologies](https://www.southrivertech.com)
 
-## DMZedge Server - Enterprise Edition (dmzent)
 
-DMZedge has been preconfigured and optimized with all features enabled.
