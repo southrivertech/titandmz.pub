@@ -1,4 +1,4 @@
-# <img src="https://southrivertech.com/software/nextgen/dmzedge/dmzedge48.png" alt="DMZedge Server logo"> DMZedge Server</img>
+# <img src="https://southrivertech.com/software/nextgen/dmzedge/dmzedge48.png" alt="DMZedge Server logo"> DMZedge Server - Cloud Edition</img>
 
 DMZedge Server is an enterprise grade, cross-platform, secure reverse proxy server for use in conjunction with Cornerstone MFT Server.
 
