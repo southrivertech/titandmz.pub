@@ -12,7 +12,13 @@ DMZedge is a reverse proxy server that provides perimeter security for your Corn
 
 ## Getting Started
 
-To launch the DMZedge Administrator UI point your browser to your VM's public url or IP address. The first time you run the Administrator it will prompt you to create a new Administrator account to allow configuring the DMZedge server. 
+Once you have securely connected to the instance over SSH, the initial DMZedge administrator account needs to be configured. To configure the DMZedge administrator account, use the following command and supply your new administrator credentials. It's imporant to use a complex password.
+
+sudo /opt/southriver/dmzedge/dmzedge /LASINIT /username=`<admin-username>` /password=`<admin-password>`
+
+Once the DMZedge administrative credentials have been established, you can now connect to the DMZedge web-based admin console through your web-browser by pointing it to https://`<ipaddress>`:42443.
+
+Note that this is a secure connection. However, since DMZedge is using a temporary certificate, you will see a security warning in the browser. Proceed past the security warning and log in to the DMZedge Admin console. At this point you will be able to configure the DMZedge application including adding your own TLS certificate.
 
 ## Configure DMZedge for External access
 
