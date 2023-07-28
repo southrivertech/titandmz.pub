@@ -1,8 +1,8 @@
-## DMZedge Server
+## Titan DMZ Server
 
 For the latest up-to-date information, please refer to our GitHub repo located at 
 
-https://github.com/southrivertech/dmzedge.pub/tree/main/cloud-marketplace
+https://github.com/southrivertech/titandmz.pub/tree/main/cloud-marketplace
 
 
 
