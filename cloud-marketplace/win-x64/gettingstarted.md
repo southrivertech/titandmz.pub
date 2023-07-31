@@ -33,6 +33,6 @@ Complimentary technical support is available on our website at https://helpdesk.
 South River Technologies corporate WebSite:  [https://www.SouthRiverTechnologies.com](https://www.SouthRiverTechnologies.com)<br />
 Titan MFT (Enterprise grade Managed File Transfer Solution): [https://www.TitanMFT.com](https://www.TitanMFT.com)<br />
 Titan DMZ Server (Secure reverse proxy server for Titan MFT): [https://www.TitanDMZ.com](https://www.TitanDMZ.com)<br />
-Titan SFTP Server: [https://www.titanftp.com](https://www.titanftp.com)<br />
+Titan SFTP Server micro site: [https://www.TitanFTP.com](https://www.TitanFTP.com)<br />
 WebDrive (Virtual Drive Mapping Client): [https://www.WebDrive.com](https://www.webdrive.com)<br />
 
