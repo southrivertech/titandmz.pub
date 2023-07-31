@@ -1,4 +1,4 @@
-param($hostName='myhost',$arch='windows',$repo="southrivertech",$image="dmzedge", $tagName="latest")
+param($hostName='myhost',$arch='windows',$repo="southrivertech",$image="titandmz", $tagName="latest")
 
 # 
 # Sample script file
@@ -87,7 +87,7 @@ $imageName = "$repo`/$image`:$tagName"
 #
 # default folders
 #
-$defCfgDir = "C:\ProgramData\South River Technologies\dmzedge"
+$defCfgDir = "C:\ProgramData\South River Technologies\titandmz"
 $defLogDir = "C:\Srtlogs"
 $defDataDir = "c:\srtdata"
 
