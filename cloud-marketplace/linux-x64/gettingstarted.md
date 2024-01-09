@@ -12,9 +12,11 @@ Titan DMZ is a reverse proxy server that provides perimeter security for your Ti
 
 ## Getting Started
 
-Once you have securely connected to the instance over SSH, the initial Titan DMZ administrator account needs to be configured. To configure the Titan DMZ administrator account, use the following command and supply your new administrator credentials. It's imporant to use a complex password.
+Once you have securely connected to the instance over SSH, the initial Titan DMZ administrator account needs to be configured. To configure the Titan DMZ administrator account, use the following command and supply your new administrator credentials. It's imporant to use a complex password consisting of a minimum of 8 characters in length, both upper and lower case, one or more numbers, and one or more special characters consisting of the following characters "(~!@#$%^&*_-+=`|\\(){}[]:;\"'<>,.?/)"
 
+```
 sudo /opt/southriver/titandmz/titandmz /LASINIT /username=`<admin-username>` /password=`<admin-password>`
+```
 
 Once the Titan DMZ administrative credentials have been established, you can now connect to the Titan DMZ web-based admin console through your web-browser by pointing it to https://`<ipaddress>`:42443.
 
