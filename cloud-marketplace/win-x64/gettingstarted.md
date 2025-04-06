@@ -12,7 +12,7 @@ Titan DMZ Server is a reverse proxy server that provides perimeter security for 
 
 ## Getting Started
 
-To launch the Titan DMZ Server Administrator UI point your browser to your VM's public url or IP address. The first time you run the Administrator it will prompt you to create a new Administrator account to allow configuring the Titan DMZ Server. 
+To launch the Titan DMZ Administrator click on the Titan DMZ Server desktop icon which will launch the browser and connect to the default localhost admin port of 32443. The first time you run the Administrator it will prompt you to create a new Administrator account to allow configuring the server.
 
 ## Configure Titan DMZ Server for External access
 
